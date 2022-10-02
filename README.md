@@ -25,4 +25,5 @@ To add a break, just do this:
 
 0 is for 0hz (no sound). 1 is for 1 second. A 1 second break.
 See the example picture:
+
 ![readme_image2](https://user-images.githubusercontent.com/93295652/193435596-87d5efaa-18be-4e43-ab6f-8bfc2f991ee1.PNG)
